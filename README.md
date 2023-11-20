@@ -1,45 +1,49 @@
-# BigData_group6
+# BigData_group6 - Deliverable 1
 
- Deliverable 1
+# Group-6:
+  Akash Rachakonda,
+  Sofia Lnu,
+  Mithun Goud Bandi,
+  Keshav Reddy Adupala,
+  Nithin Sai Talluri, 
+ 
+# Communications plans:
+ 
+ Communication Channels:
+  Day-to-day conversations and coordination occur through Slack, while more formal and documented communication is conducted via email.
+ 
+ Response Time: 
+  Team members aim to respond promptly to messages. Any absence or away-from-work status is communicated through the appropriate channels.
+ 
+ Meeting Attendance: 
+  While not mandatory for all team members to attend every meeting, a minimum of 3 out of 5 members should be present. Those unable to attend notify the team in advance, and full   
+  attendance is appreciated.
+ 
+ Version Control: 
+  Team members make changes by submitting pull requests, which undergo peer review before merging into the artifact.
+ 
+ Work Division:
+  Tasks are divided among team members in modular form. If there is an overload, team members can notify others to redistribute or share the workload.
 
-Group-6:
- Akash Rachakonda
- Sofia Lnu
- Mithun Goud Bandi
- Keshav Reddy Adupala
- Nithin Sai Talluri
- 
-Communications plans:
- 
-Communication Channels: Day-to-day conversations and coordination occur through Slack, while more formal and documented communication is conducted via email.
- 
-Response Time: Team members aim to respond promptly to messages. Any absence or away-from-work status is communicated through the appropriate channels.
- 
-Meeting Attendance: While not mandatory for all team members to attend every meeting, a minimum of 3 out of 5 members should be present. Those unable to attend notify the team in advance, and full attendance is appreciated.
- 
-Version Control: Team members make changes by submitting pull requests, which undergo peer review before merging into the artifact.
- 
-Work Division: Tasks are divided among team members in modular form. If there is an overload, team members can notify others to redistribute or share the workload.
-
-Project Repository:
+# Project Repository:
 Our entire work is accessible in the public repository established on GitHub. You can find the repository at the following link: – https://github.com/akashrachakonda/BigData_group
 
 
 
 
-Data: 
+# Data: 
 The Sea Around Us dataset, which spans the years 1950 to 2018, has an abundance of information about global fisheries. It provides yearly fishery catches, indicating which countries captured what sorts of fish in open oceans and Exclusive Economic Zones (EEZs). Catch amounts and values in 2010 US dollars are also supplied.
 
 
-Business Problem or Opportunity:
+# Business Problem or Opportunity:
 This information provides an opportunity for sustainable fisheries management, economic analysis, international collaboration, and environmental effect evaluation. Understanding historical fishing trends can help guide plans for sustainable resource management, improve economic planning, develop international cooperation, and assist policymakers in assessing the environmental impact of fishing activities.
 
 
-Domain Knowledge:
+# Domain Knowledge:
 Understanding open seas (high seas) as areas beyond 200 nautical miles from any country's shoreline, considered global resources, is critical for evaluating the data. Exclusive Economic Zones (EEZs) are areas within 200 nautical miles of a country's coast where states claim exclusive access to resources. The dataset's use is governed by a Creative Commons license, and recognition of the Sea Around Us project's contribution is required.
 
 
-Research Objectives and Questions:
+# Research Objectives and Questions:
 
 
 The primary research objective is to leverage the Sea Around Us dataset, spanning 1950 to 2018, to gain comprehensive insights into global fisheries. Key questions include:
