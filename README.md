@@ -1,11 +1,12 @@
 # BigData_group6 - Deliverable 1
 
 # Group-6:
-  Akash Rachakonda,
-  Sofia Lnu,
-  Mithun Goud Bandi,
-  Keshav Reddy Adupala,
-  Nithin Sai Talluri, 
+ Akash Rachakonda - 801325751
+ Sofia Lnu - 801325747
+ Mithun Goud Bandi - 801343702
+ Keshav Reddy Adupala - 801328223
+ Nithin Sai Talluri - 801324883
+ 
  
 # Communications plans:
  
